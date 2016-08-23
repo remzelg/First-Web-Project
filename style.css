@@ -1,0 +1,49 @@
+h1 {text-align: center;
+	color: #00FFFF;
+	font-size:400%;
+	font-family: 'Jolly Lodger', cursive, serif;
+	}
+body {background-image: url("flamingo.jpg");
+	background-repeat: repeat-x;
+	background-color: black;
+	color: #00FFFF;
+	text-align: center;
+	}
+h5 { font-size: 350%;
+	font-family: 'Jolly Lodger', cursive, serif;
+	font-weight: bold;
+	padding-top:10px;
+	margin-bottom:10px;
+}
+#bigger{ font-size: 150%;
+}
+p.parent {width: 50%;
+text-align: center;
+}
+p.choice {display: inline-block;
+margin-right: 4px;
+}
+button{font-size:150%;}
+
+p.button {text-align: center;
+margin-left: 4px;
+}
+p#description { font-size: 200%;
+border: 3px solid #F4A460;
+display: inline;
+}
+p#choice1 { font-size: 150%;
+}
+p#choice2 { font-size: 150%;
+}
+p#choice3 { font-size: 150%;
+}
+p#choice4 { font-size: 150%;
+}
+p#choice5 { font-size: 150%;
+}
+
+p#result { font-size: 200%;
+border: 3px solid #F4A460;
+text-align:center;
+}
