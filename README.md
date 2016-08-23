@@ -13,4 +13,5 @@ The game server is no longer running so the game cannot be played. Must reconfig
 
 https://docs.google.com/document/d/1RLgFb-gStJKYrwuYg4UIvTSgCMJ3oEJ-qZEwAMca_1M/edit
 
+## Initial Page 'Index.html'
 <img width="661" alt="capture" src="https://cloud.githubusercontent.com/assets/13786155/17878522/5de10f52-68b9-11e6-859e-4adc4466a08a.PNG">
