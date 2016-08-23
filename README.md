@@ -12,3 +12,5 @@ The game server is no longer running so the game cannot be played. Must reconfig
 #Game Layout and Planning
 
 https://docs.google.com/document/d/1RLgFb-gStJKYrwuYg4UIvTSgCMJ3oEJ-qZEwAMca_1M/edit
+
+![Alt text](capture.png?raw=true "Optional Title")
