@@ -6,7 +6,7 @@ Project oriented around using ajax to access sql database storing the state info
 Logic is implemented through extensive javascript. 
 
 # Current Issues
-The game server is no longer running so the game cannot be played. Must reconfigure to use javascript objects 
+The server serving the database is no longer running so the game cannot be played. Must reconfigure to use javascript objects.
 
 
 #Game Layout and Planning
