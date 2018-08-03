@@ -1,7 +1,7 @@
-# First-Web-Project
+# Final Project for Web Client Programming
 Written March 2015
 
-# Group Project for Intro to Web Development
+# Summary
 Project oriented around using ajax to access sql database storing the state information and room descriptions for the game.
 Logic is implemented through extensive javascript. 
 
